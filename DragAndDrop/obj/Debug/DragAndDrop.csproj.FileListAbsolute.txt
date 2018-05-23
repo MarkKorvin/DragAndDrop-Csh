@@ -1,0 +1,10 @@
+K:\Сотрудники\Морковин Александр\repos\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.exe.config
+K:\Сотрудники\Морковин Александр\repos\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.exe
+K:\Сотрудники\Морковин Александр\repos\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.pdb
+K:\Сотрудники\Морковин Александр\repos\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csprojResolveAssemblyReference.cache
+K:\Сотрудники\Морковин Александр\repos\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.Form1.resources
+K:\Сотрудники\Морковин Александр\repos\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+K:\Сотрудники\Морковин Александр\repos\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.cache
+K:\Сотрудники\Морковин Александр\repos\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csproj.CoreCompileInputs.cache
+K:\Сотрудники\Морковин Александр\repos\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.exe
+K:\Сотрудники\Морковин Александр\repos\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.pdb
